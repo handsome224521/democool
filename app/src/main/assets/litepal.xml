@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="demo_cool" />
+    <version value="1" />
+    <list>
+        <mapping class="cn.cbb.dc.andriod.db.City"></mapping>
+        <mapping class="cn.cbb.dc.andriod.db.County"></mapping>
+        <mapping class="cn.cbb.dc.andriod.db.Province"></mapping>
+    </list>
+</litepal>
